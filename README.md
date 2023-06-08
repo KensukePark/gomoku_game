@@ -5,4 +5,4 @@ make gomoku using C language
 Visual Studio 2017 <br>
 
 # Preview
-<p align="left"><img src="gomoku.png" width="1468" height="766"/></p>
+<p align="left"><img src="gomoku.png" width="734" height="383"/></p>
